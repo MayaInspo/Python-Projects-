@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T20:06:17.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5euK4JkoYlB8FJsUfisX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T22:29:36.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sm7DDijkxvE1c7wqoqYE" version="24.5.2" type="github">
   <diagram name="Page-1" id="410jCYwgjzf_pwdVhERT">
-    <mxGraphModel dx="2096" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
           <mxGeometry x="233" y="311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-51" value="drinks a potion, he gives good or bad based on answer&amp;nbsp;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="-100" width="360" height="80" as="geometry" />
+          <mxGeometry x="-580" y="-100" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-52" value="final message for those who chose money" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" vertex="1" parent="1">
           <mxGeometry x="-470" y="400" width="80" height="80" as="geometry" />
