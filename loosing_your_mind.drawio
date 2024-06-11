@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:08:10.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="n8uQXKK1IjxJoAjcO28-" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T19:11:07.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="m6_x_T5x0RYQerGkk-dc" version="24.5.2" type="github">
   <diagram name="Page-1" id="410jCYwgjzf_pwdVhERT">
     <mxGraphModel dx="2946" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="mcfU58PVEs3NuC_BjMG4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.488;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="mcfU58PVEs3NuC_BjMG4-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-32" value="ending message if they don&#39;t answer correctly" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-32" value="time travel" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="365" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcfU58PVEs3NuC_BjMG4-34" value="if answer correctly, feed it into a good fate" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
