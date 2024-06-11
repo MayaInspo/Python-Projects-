@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T18:46:02.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zsjk0o_aDiWTaSGDgQCt" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T19:08:10.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="n8uQXKK1IjxJoAjcO28-" version="24.5.2" type="github">
   <diagram name="Page-1" id="410jCYwgjzf_pwdVhERT">
     <mxGraphModel dx="2946" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
               <mxPoint x="281" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6" target="zbh-IIz4NmmbxRx495YG-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6" value="power" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="190" y="94" width="68" height="43" as="geometry" />
@@ -103,6 +106,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" source="uUNFosphdSKV3-N2Ar6D-27" target="uUNFosphdSKV3-N2Ar6D-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uUNFosphdSKV3-N2Ar6D-27" target="zbh-IIz4NmmbxRx495YG-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-27" value="love" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
@@ -195,7 +201,7 @@
         <mxCell id="mcfU58PVEs3NuC_BjMG4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mcfU58PVEs3NuC_BjMG4-24" target="mcfU58PVEs3NuC_BjMG4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-24" value="clues in the beginning story for trivia later&lt;div&gt;* how tall was the owl&lt;/div&gt;&lt;div&gt;*how far from (make 2 town names n 2 distances)&lt;/div&gt;&lt;div&gt;*what color was the horse you came on (brown and white)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-24" value="clues in the beginning story for trivia later&lt;div&gt;* how tall was the owl&lt;/div&gt;&lt;div&gt;*how far from (make 2 town names n 2 distances)&lt;/div&gt;&lt;div&gt;*what color was the horse you came on (brown and white)&lt;/div&gt;&lt;div&gt;which way was the house leaning&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="450" y="338" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="mcfU58PVEs3NuC_BjMG4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uUNFosphdSKV3-N2Ar6D-64" target="mcfU58PVEs3NuC_BjMG4-24" edge="1">
@@ -232,6 +238,21 @@
         </mxCell>
         <mxCell id="mcfU58PVEs3NuC_BjMG4-40" value="final message for those who chose power" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbh-IIz4NmmbxRx495YG-24" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-24" value="makes you drink a potion" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-437.5" y="118" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zbh-IIz4NmmbxRx495YG-24" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-30" value="touches forehead with staff" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="338" y="94" width="68" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-32" value="tea/special flower" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="62" y="100" width="72" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
