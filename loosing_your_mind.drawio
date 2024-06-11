@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:11:07.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="m6_x_T5x0RYQerGkk-dc" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T19:15:12.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TvTFpG3tec8cFaRtgqos" version="24.5.2" type="github">
   <diagram name="Page-1" id="410jCYwgjzf_pwdVhERT">
     <mxGraphModel dx="2946" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="beginning fantasy of story" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="319" y="-120" width="106" height="34" as="geometry" />
+        <mxCell id="2" value="beginning fantasy of story. lowly traveler with nothing to do" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="319" y="-120" width="101" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" source="3" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="4" value="look around" style="whiteSpace=wrap;strokeWidth=2;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="641" y="84" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zbh-IIz4NmmbxRx495YG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="zbh-IIz4NmmbxRx495YG-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5" value="money" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-390" y="60" width="65" height="34" as="geometry" />
@@ -144,11 +147,11 @@
         <mxCell id="uUNFosphdSKV3-N2Ar6D-39" value="lives as a beggar" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-400" y="250" width="150" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="uUNFosphdSKV3-N2Ar6D-41" value="gets the love of life and has a happy fam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="324" width="100" height="43" as="geometry" />
+        <mxCell id="uUNFosphdSKV3-N2Ar6D-41" value="gets the love of life and has a happy fam (you grow the flower on your farm)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="324" width="120" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="uUNFosphdSKV3-N2Ar6D-43" value="makes anyone you want fall in love (they never stop loving you)crazy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="324" width="100" height="76" as="geometry" />
+        <mxCell id="uUNFosphdSKV3-N2Ar6D-43" value="makes anyone you want fall in love (they never stop loving you)crazy (flower in a jar on your death bed with crazy next to you)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="324" width="120" height="116" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uUNFosphdSKV3-N2Ar6D-46" target="uUNFosphdSKV3-N2Ar6D-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -231,7 +234,7 @@
           <mxGeometry x="570" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcfU58PVEs3NuC_BjMG4-36" value="final message for those who chose love" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
-          <mxGeometry x="-98" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="-80" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mcfU58PVEs3NuC_BjMG4-38" value="final message for those who chose money" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="-430" y="380" width="80" height="80" as="geometry" />
@@ -239,14 +242,8 @@
         <mxCell id="mcfU58PVEs3NuC_BjMG4-40" value="final message for those who chose power" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zbh-IIz4NmmbxRx495YG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbh-IIz4NmmbxRx495YG-24" target="9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zbh-IIz4NmmbxRx495YG-24" value="makes you drink a potion" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-437.5" y="118" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zbh-IIz4NmmbxRx495YG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zbh-IIz4NmmbxRx495YG-24" target="10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-295" y="52" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zbh-IIz4NmmbxRx495YG-30" value="touches forehead with staff" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="338" y="94" width="68" height="43" as="geometry" />
