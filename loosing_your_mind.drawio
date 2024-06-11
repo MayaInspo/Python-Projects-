@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T03:36:26.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8sDWG2c0ElrjqakGTKg8" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T18:46:02.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zsjk0o_aDiWTaSGDgQCt" version="24.5.2" type="github">
   <diagram name="Page-1" id="410jCYwgjzf_pwdVhERT">
-    <mxGraphModel dx="4226" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,14 +129,14 @@
         <mxCell id="uUNFosphdSKV3-N2Ar6D-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uUNFosphdSKV3-N2Ar6D-36" target="uUNFosphdSKV3-N2Ar6D-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uUNFosphdSKV3-N2Ar6D-36" value="becomes king" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="304" width="106" height="34" as="geometry" />
+        <mxCell id="uUNFosphdSKV3-N2Ar6D-36" value="becomes king,&#xa;you wake up on the trail(long lost royal)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="260" width="130" height="78" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uUNFosphdSKV3-N2Ar6D-39" target="mcfU58PVEs3NuC_BjMG4-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-39" value="lives as a beggar" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="304" width="106" height="34" as="geometry" />
+          <mxGeometry x="-400" y="250" width="150" height="88" as="geometry" />
         </mxCell>
         <mxCell id="uUNFosphdSKV3-N2Ar6D-41" value="gets the love of life and has a happy fam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="-210" y="324" width="100" height="43" as="geometry" />
@@ -186,51 +186,51 @@
         <mxCell id="uUNFosphdSKV3-N2Ar6D-64" value="has to play a quiz game about LMP and gets sent thru the fates based on answer" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;" parent="uUNFosphdSKV3-N2Ar6D-61" vertex="1">
           <mxGeometry y="90" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-23" value="learn how to make a blinking cursor for inputs" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-23" value="learn how to make a blinking cursor for inputs" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-980" y="-6" width="420" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcfU58PVEs3NuC_BjMG4-24" target="mcfU58PVEs3NuC_BjMG4-32">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mcfU58PVEs3NuC_BjMG4-24" target="mcfU58PVEs3NuC_BjMG4-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcfU58PVEs3NuC_BjMG4-24" target="mcfU58PVEs3NuC_BjMG4-34">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mcfU58PVEs3NuC_BjMG4-24" target="mcfU58PVEs3NuC_BjMG4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-24" value="clues in the beginning story for trivia later&lt;div&gt;* how tall was the owl&lt;/div&gt;&lt;div&gt;*how far from (make 2 town names n 2 distances)&lt;/div&gt;&lt;div&gt;*what color was the horse you came on (brown and white)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-24" value="clues in the beginning story for trivia later&lt;div&gt;* how tall was the owl&lt;/div&gt;&lt;div&gt;*how far from (make 2 town names n 2 distances)&lt;/div&gt;&lt;div&gt;*what color was the horse you came on (brown and white)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="450" y="338" width="191" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uUNFosphdSKV3-N2Ar6D-64" target="mcfU58PVEs3NuC_BjMG4-24">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uUNFosphdSKV3-N2Ar6D-64" target="mcfU58PVEs3NuC_BjMG4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-27" value="extras" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-27" value="extras" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="-350" width="410" height="120" as="geometry">
             <mxRectangle x="160" y="-480" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-28" value="add in pygame and make a screen with a pov, captions, undertail style box where all execution&#39;s happen&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mcfU58PVEs3NuC_BjMG4-27">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-28" value="add in pygame and make a screen with a pov, captions, undertail style box where all execution&#39;s happen&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mcfU58PVEs3NuC_BjMG4-27" vertex="1">
           <mxGeometry y="30" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-29" value="add background pixel art to different parts, after decisions (animations?)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mcfU58PVEs3NuC_BjMG4-27">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-29" value="add background pixel art to different parts, after decisions (animations?)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mcfU58PVEs3NuC_BjMG4-27" vertex="1">
           <mxGeometry y="60" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-30" value="add music&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mcfU58PVEs3NuC_BjMG4-27">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-30" value="add music&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mcfU58PVEs3NuC_BjMG4-27" vertex="1">
           <mxGeometry y="90" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.488;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="mcfU58PVEs3NuC_BjMG4-30">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.488;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="mcfU58PVEs3NuC_BjMG4-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-32" value="ending message if they don&#39;t answer correctly" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-32" value="ending message if they don&#39;t answer correctly" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="365" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-34" value="if answer correctly, feed it into a good fate" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-34" value="if answer correctly, feed it into a good fate" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="570" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-36" value="final message for those who chose love" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-36" value="final message for those who chose love" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="-98" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-38" value="final message for those who chose money" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-38" value="final message for those who chose money" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="-430" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mcfU58PVEs3NuC_BjMG4-40" value="final message for those who chose power" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" vertex="1" parent="1">
+        <mxCell id="mcfU58PVEs3NuC_BjMG4-40" value="final message for those who chose power" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#c6402f;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
